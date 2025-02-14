@@ -17,3 +17,7 @@ Controle de Motores:
 ESC 10A para controle de velocidade dos motores via PWM
 Conectores:
 Utilização de conectores JST XH para facilitar a conexão dos sensores, que serão acoplados na gangorra ao invés de serem soldados diretamente na PCB
+![image](https://github.com/user-attachments/assets/8b165416-1452-4d4d-a202-80a227e6052f)
+![image](https://github.com/user-attachments/assets/3b8f85c1-6790-44ba-bd5a-cac26c143ea3)
+
+
